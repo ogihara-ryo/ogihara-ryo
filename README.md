@@ -13,7 +13,7 @@
 
 ### バックエンド
 
-最も愛用しているのは [Ruby on Rails](https://rubyonrails.org/) です。[Rails Girls Kitakyushu](http://railsgirls.com/kitakyushu.html) では夫婦でオーガナイザーとコーチ代表を行ったり、[Rails Girls Fukuoka](http://railsgirls.com/fukuoka.html) でコーチを担当したり等といったコミュニティへの参加も積極的に行っています。[RubyKaigi](RubyKaigi) や [RubyWorld Conference](RubyWorld Conference) 等のイベントにも足を運んでいます。
+最も愛用しているのは [Ruby on Rails](https://rubyonrails.org/) です。[Rails Girls Kitakyushu](http://railsgirls.com/kitakyushu.html) では夫婦でオーガナイザーとコーチ代表を行ったり、[Rails Girls Fukuoka](http://railsgirls.com/fukuoka.html) でコーチを担当したり等といったコミュニティへの参加も積極的に行っています。[RubyKaigi](RubyKaigi) や [RubyWorld Conference](https://2019.rubyworld-conf.org/ja/) 等のイベントにも足を運んでいます。
 
 ### モバイル
 
