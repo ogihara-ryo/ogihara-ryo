@@ -1,3 +1,6 @@
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ogihara-ryo&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ogihara-ryo&count_private=true&layout=compact)
+
 ## プロフィール
 夫婦でシステム開発のお仕事をしています。福岡県行橋市で猫3匹と生活しています。現在は自社サービス開発企業に夫婦で勤め、Ruby on Rails と Next.js のシステム開発をしています。副業で個人事業主としてシステム開発の仕事や、開発者教育の仕事をしています。[ブログ](https://ryukalice.com/blog) を書いています。
 
