@@ -2,7 +2,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ogihara-ryo&count_private=true&layout=compact)
 
 ## プロフィール
-夫婦でシステム開発のお仕事をしています。福岡県行橋市で猫3匹と生活しています。現在は自社サービス開発企業に夫婦で勤め、Ruby on Rails と Next.js のシステム開発をしています。副業で個人事業主としてシステム開発の仕事や、開発者教育の仕事をしています。[ブログ](https://ryukalice.com/blog) を書いています。
+夫婦でシステム開発のお仕事をしています。福岡県行橋市で猫3匹と生活しています。現在は自社サービス開発企業に夫婦で勤め、Ruby on Rails と Next.js と Flutter のシステム開発をしています。副業で個人事業主としてシステム開発の仕事や、開発者教育の仕事をしています。[ブログ](https://ryukalice.com/blog) を書いています。
 
 ## 得意分野
 
@@ -20,7 +20,7 @@
 
 ### モバイル
 
-学生向けのサービス等といったメインターゲットがスマホユーザーの web アプリケーション開発経験が豊富なため、モバイルファーストのコーディングや UI/UX 構築を得意としています。また、[React Native](https://reactnative.dev/) によるネイティブアプリケーションの開発経験もあります。Flutter 始めました。
+[Flutter](https://flutter.dev/) を愛用しています。学生向けのサービス等といったメインターゲットがスマホユーザーの web アプリケーション開発経験が豊富なため、モバイルファーストのコーディングや UI/UX 構築を得意としています。また、[React Native](https://reactnative.dev/) によるアプリケーションの開発経験もあります。
 
 ### テスト
 
@@ -67,6 +67,8 @@ Redmine プラグイン開発の経験もあります。これを題材にした
 
 また、React Native でクロスプラットフォームのモバイルアプリケーションを開発した経験もあります。Ruby on Rails の web アプリケーションにモバイル需要が出てきたので、Ruby on Rails に API を生やして React Native で web アプリケーションと同じような仕様のモバイルアプリケーションを作りました。過去にはこの経験を簡易的に模倣した演習記事を執筆しました。  
 [Ruby on Rails と React Native で作る web & モバイルアプリ [モバイルアプリ編]](https://qiita.com/OgiharaRyo/items/9d16c935bcf769c82bc4)
+
+現在は、Flutter を愛用しています。ActionCable 経由で Ruby on Rails アプリケーションとのチャット機能を持ったモバイルアプリケーションを作っています。
 
 ### Python
 
